@@ -17,7 +17,7 @@
   <li>Are there differences in power consumption between brands?</li>
 </ul>
 <br><strong>About the data</strong>
-<br> 1. Data Source: The dataset was obtained from the official Australian Goverment portal, https://data.gov.au/</a> under "Energy Rating Data for household appliances – Labelled Products". The dataset contains detailed information about the energy consumption of televisions sold in Australia.
+<br> 1. Data Source: The dataset was obtained from the official Australian Goverment portal, https://data.gov.au/ under "Energy Rating Data for household appliances – Labelled Products". The dataset contains detailed information about the energy consumption of televisions sold in Australia.
 
 <br> 2. Data processing: The dataset was processed using the KNIME analytics platform. Data cleaning involved removing irrelevant columns and handlign missing values using appropriate methods. Data transformation included converting screen size measurements from cm to inches.
 
